@@ -56,6 +56,9 @@ Configure the Qovery application with:
 
 No database is required for the current demo implementation.
 
+Pull requests targeting the deployment branch receive an isolated Qovery
+preview URL for team validation.
+
 Agent rules live in [AGENTS.md](./AGENTS.md).
 
 ## License
